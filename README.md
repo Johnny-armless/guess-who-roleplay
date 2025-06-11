@@ -1,4 +1,4 @@
-# Guess-Who Roleplay Generator
+![Guess Who Banner](banner.png)
 
 🛠️ **Prompt created by Abner Carvalho**  
 📁 GitHub: [Johnny-armless](https://github.com/Johnny-armless)
